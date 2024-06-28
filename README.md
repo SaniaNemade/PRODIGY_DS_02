@@ -42,7 +42,7 @@ The project is structured as follows:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your_username/titanic-analysis.git
+   git clone https://github.com/SaniaNemade/PRODIGY_DS_02/tree/main
    cd titanic-analysis
    ```
 
