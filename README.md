@@ -9,7 +9,7 @@ This project involves performing data cleaning and exploratory data analysis (ED
 The project is structured as follows:
 
 - **main.ipynb**: Jupyter Notebook containing the Python code for data cleaning and EDA.
-- **titanic.csv**: Dataset file (not included in this repository).
+- **titanic.csv**: Dataset file 
 
 ## Project Steps
 
@@ -64,5 +64,5 @@ The project is structured as follows:
 ## Author
 
 - Sania Nemade
-- GitHub:(https://github.com/SaniaNemade)
+- GitHub:https://github.com/SaniaNemade
 
